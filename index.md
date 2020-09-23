@@ -8,3 +8,5 @@ They will be tested on the [KittenBot Meowbit](https://www.kittenbot.cc/products
 
 ### Big Blue Bus
 [[Play](https://dunstergames.github.io/big-blue-bus-makecode)] | [[Edit](https://arcade.makecode.com/#pub:github:dunstergames/big-blue-bus-makecode)] | [[Code/GitHub](https://github.com/dunstergames/big-blue-bus-makecode)]
+
+![Gameplay Gif](assets/big-blue-bus.gif)
